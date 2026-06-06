@@ -34,3 +34,4 @@ Este perfil é voltado para **troca de experiências e networking**. Não tenho 
 ![nodejs](https://galeria-black-diaz.vercel.app/api/svg/badges/skills/tecnologias/badge-nodejs.svg)
 ![react](https://galeria-black-diaz.vercel.app/api/svg/badges/skills/tecnologias/badge-react.svg)
 ![tailwind](https://galeria-black-diaz.vercel.app/api/svg/badges/skills/tecnologias/badge-tailwind.svg)
+# mocoto-geleia
