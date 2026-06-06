@@ -43,5 +43,6 @@ Aqui Ã© onde testo e experimento stacks, linguagens e ferramentas. Este perfil Ã
 ![Node.js](https://galeria-black-diaz.vercel.app/api/svg/badges/skills/tecnologias/badge-nodejs.svg)
 ![React](https://galeria-black-diaz.vercel.app/api/svg/badges/skills/tecnologias/badge-react.svg)
 ![Tailwind](https://galeria-black-diaz.vercel.app/api/svg/badges/skills/tecnologias/badge-tailwind.svg)
+![nextjs](https://galeria-black-diaz.vercel.app/api/svg/badges/skills/tecnologias/badge-nextjs.svg)
 
 > Nota: quero me especializar em novas tecnologias e continuar praticando com projetos reais.
