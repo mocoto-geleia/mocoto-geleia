@@ -24,10 +24,6 @@ Sou um desenvolvedor autodidata apaixonado por aprendizado contínuo. Estou semp
 
 Aqui é onde testo e experimento stacks, linguagens e ferramentas. Este perfil é voltado para troca de experiências, aprendizado e crescimento mútuo.
 
-## Sobre o tutanus
-
-Eu vou manter apenas o site pra analises e vou deprecar o npm, "to emburrado agora".
-
 ---
 
 ## Contato
