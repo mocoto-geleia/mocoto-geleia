@@ -4,9 +4,6 @@ Sou um desenvolvedor autodidata apaixonado por aprendizado contínuo. Estou semp
 
 ## Sobre mim
 
-![No longo prazo eu não perco.](https://galeria-black-diaz.vercel.app/api/svg/badges/info/badge-beta.svg)
-![Condição de saúde.](https://galeria-black-diaz.vercel.app/api/svg/badges/info/badge-stable.svg)
-
 - Desenvolvedor por hobby e aprendiz dedicado
 - Mineiro de coração e cristão
 - Interesses: psicologia, ciências e Teologia
@@ -31,7 +28,7 @@ Aqui é onde testo e experimento stacks, linguagens e ferramentas. Este perfil �
 
 ## Contato
 
-[![Gmail](https://galeria-black-diaz.vercel.app/api/svg/social/social-gmail.svg)](mailto:mocoto.persona@gmail.com)
+[E-mail](mailto:mocoto.persona@gmail.com)
 
 ---
 
